@@ -1,0 +1,22 @@
+#tabz {
+    display: inline;
+    margin-right: 10px;
+}
+
+
+div {
+    width: 300px;
+    height: 300px;
+    border-style:solid;
+    border-width:2px;
+    border-color:#bbbbaa #111111 #ee3e80 #0088dd;
+}
+
+
+header {
+    font-size:20px;
+}
+
+body {
+    font-size:20px;
+}
